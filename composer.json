@@ -1,0 +1,27 @@
+{
+  "name": "artem328/maintenance-command",
+  "description": "",
+  "type": "wp-cli-package",
+  "homepage": "https://github.com/artem328/maintenance-command",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Artem Vozhzhov",
+      "email": "vojjov.artem@ya.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "Artem328\\WP_CLI_Maintenance\\": "src/"
+    },
+    "files": [
+      "command.php"
+    ]
+  },
+  "require": {
+    "wp-cli/wp-cli": "^1.1.0"
+  },
+  "require-dev": {}
+}

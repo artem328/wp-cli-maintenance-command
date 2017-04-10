@@ -7,6 +7,26 @@ Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contr
 
 ## Using
 
+### Enabling maintenance mode
+For enable maintenance mode, use 
+`wp maintenance enable` 
+
+For more information check help page 
+`wp help maintenance enable`
+
+### Disabling maintenance mode
+For disabling maintenance mode, use
+`wp maintenance disable`
+
+For more information check help page 
+`wp help maintenance disable`
+
+### Checking maintenance mode status
+For check status of maintenance mode, use
+`wp maintenance status`
+
+For more information check help page 
+`wp help maintenance status`
 
 ## Installing
 

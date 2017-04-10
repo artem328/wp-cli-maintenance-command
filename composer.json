@@ -1,6 +1,7 @@
 {
   "name": "artem328/maintenance-command",
-  "description": "",
+  "description": "Allows to enabled/disable maintenance mode of your wordpress installation via cli",
+  "version": "1.0.0",
   "type": "wp-cli-package",
   "homepage": "https://github.com/artem328/maintenance-command",
   "license": "MIT",

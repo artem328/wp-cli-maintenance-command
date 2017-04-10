@@ -10,6 +10,8 @@ use WP_CLI_Command;
  */
 class MaintenanceCommand extends WP_CLI_Command {
 
+	const VERSION = '1.0.0';
+
 	/**
 	 * Default max duration of maintenance mode
 	 *

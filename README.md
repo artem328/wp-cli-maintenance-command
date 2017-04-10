@@ -65,5 +65,6 @@ Once you've decided to commit the time to seeing your pull request through, plea
 3. Include functional tests with your changes. [Read the WP-CLI documentation](https://wp-cli.org/docs/pull-requests/#functional-tests) for an introduction.
 4. Follow the [WordPress Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/).
 
+## Licence
 
-*This README.md is generated dynamically from the project's codebase using `wp scaffold package-readme` ([doc](https://github.com/wp-cli/scaffold-package-command#wp-scaffold-package-readme)). To suggest changes, please submit a pull request against the corresponding part of the codebase.*
+MIT, see the [LICENCE](https://github.com/artem328/maintenance-command/blob/master/LICENSE.md) file
